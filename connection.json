@@ -1,0 +1,20 @@
+[
+  {
+    "id": "c_c42c069194c38ea9",
+    "externalId": "",
+    "type": "elevator",
+    "accessible": true,
+    "nodes": [
+      "n_2c069194c38ea987"
+    ]
+  },
+  {
+    "id": "c_42c069194c38ea98",
+    "externalId": "",
+    "type": "stairs",
+    "accessible": false,
+    "nodes": [
+      "n_c069194c38ea987f"
+    ]
+  }
+]

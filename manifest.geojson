@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "100, 福龍路一段, 平鎮區, 桃園市 32462",
+        "org_id": "656c7c6701edd3093c0a4674",
+        "folder_struct": [
+          {
+            "type": "file",
+            "name": "mapstack.geojson"
+          },
+          {
+            "type": "file",
+            "name": "map.geojson"
+          },
+          {
+            "type": "file",
+            "name": "connection.json"
+          },
+          {
+            "type": "file",
+            "name": "node.geojson"
+          },
+          {
+            "type": "file",
+            "name": "styles.json"
+          },
+          {
+            "type": "file",
+            "name": "shapes.json"
+          },
+          {
+            "type": "folder",
+            "name": "space",
+            "children": [
+              {
+                "type": "file",
+                "name": "m_ec42c069194c38ea.geojson"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "obstruction",
+            "children": [
+              {
+                "type": "file",
+                "name": "m_ec42c069194c38ea.geojson"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "entrance",
+            "children": [
+              {
+                "type": "file",
+                "name": "m_ec42c069194c38ea.geojson"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "annotation",
+            "children": [
+              {
+                "type": "file",
+                "name": "m_ec42c069194c38ea.geojson"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "window",
+            "children": [
+              {
+                "type": "file",
+                "name": "m_ec42c069194c38ea.geojson"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "shapeInstances",
+            "children": [
+              {
+                "type": "file",
+                "name": "m_ec42c069194c38ea.geojson"
+              }
+            ]
+          }
+        ],
+        "version": "2.0.0",
+        "time": "2023-12-03T15:11:01.912Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2292193964305,
+          24.90240963410438
+        ]
+      }
+    }
+  ]
+}
